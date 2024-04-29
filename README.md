@@ -16,6 +16,9 @@ A simple desktop application to convert infix expression to postfix expression, 
 ## Development Tools 💻
 - Pycharm
 - PyInstaller
+## Screenshots
+![screenshot-github-1](https://github.com/reshmaharidhas/Infix-To-Postfix-Converter/assets/37250413/134ce57e-4ed7-4d15-83b8-4ca6d9b4e8cf)
+
 ## Installation 🔌
 - Fork this project by clicking the icon at top-right to save copy of this project.
 - Download the repository files from the Download section or clone this project.
